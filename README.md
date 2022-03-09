@@ -35,4 +35,3 @@ Inspiration, code snippets, etc.
 * [DenseNet Documentation](https://keras.io/api/applications/densenet/)
 * [Resnet Documentation](https://keras.io/api/applications/resnet/)
 * [SimpleRNN Documentation](https://www.tensorflow.org/api_docs/python/tf/keras/layers/SimpleRNN)
-* [Data AUgmentation Using Tensorflow](https://www.tensorflow.org/tutorials/images/data_augmentation)

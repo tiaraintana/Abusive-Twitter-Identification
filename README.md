@@ -2,6 +2,7 @@
 
 ## Citation
 This topic with RNN-LSTM method has been publication on intenational Q3 journal in IAES International Journal of Artificial Intelligence (IJ-AI) (https://ijai.iaescore.com/index.php/IJAI/article/view/21071)
+
 T. I. Sari, Z. N. Ardilla, N. Hayatin, and R. Maskat, “Abusive comment identification on Indonesian social media data using hybrid deep learning,” IAES Int. J. Artif. Intell., vol. 11, no. 3, pp. 895–904, 2022, doi: 10.11591/ijai.v11.i3.pp895-904.
 
 ## Dataset Description
